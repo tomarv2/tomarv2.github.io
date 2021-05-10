@@ -13,7 +13,7 @@ name                     : &name "Varun Tomar"
 description              : &description "some kind of engineer"
 url                      : https://tomarv2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tomarv2/academicpages.github.io"
+repository               : "tomarv2.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,12 +87,10 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   email            : "varuntomar2019@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
   github           : "tomarv2"
-  linkedin         :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  twitter          : "replacethistwitterhandle"
+  linkedin         : "tomarv2"
+  stackoverflow    : https://stackoverflow.com/users/6679867/tomarv2
+  twitter          : "VarunTomar2019"
 
 
 # Reading Files
