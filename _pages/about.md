@@ -10,11 +10,8 @@ redirect_from:
 
 ### Hello 👋
 
-I'm Varun Tomar. I am some kind of engineer. You can find me on:
+I'm Varun Tomar. I am some kind of engineer.
 
-[Twitter](https://twitter.com/varuntomar2019)
-
-[LinkedIn](https://www.linkedin.com/in/tomarv2/)
 
 ### Technologies that I work on:
 
