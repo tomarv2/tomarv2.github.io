@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Varun Tomar / some kind of engineer"
+title                    : "Varun Tomar"
 title_separator          : "-"
 name                     : &name "Varun Tomar"
 description              : &description "some kind of engineer"
