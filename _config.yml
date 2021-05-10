@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Varun Tomar"
-  avatar           : "images/myAvatar.png"
+  avatar           : "https://github.com/tomarv2/tomarv2.github.io/blob/master/images/myAvatar.png"
   bio              : "Some kind of engineer"
   location         : "San Francisco Bay Area"
   email            : "varuntomar2019@gmail.com"
