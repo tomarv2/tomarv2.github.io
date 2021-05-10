@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "tomarv2's homepage"
+title: "Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
