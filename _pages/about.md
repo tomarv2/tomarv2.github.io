@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "tomarv2 homepage"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 ### Hello 👋
 
 I'm Varun Tomar. I am some kind of engineer. You can find me on:
