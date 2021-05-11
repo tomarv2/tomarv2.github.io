@@ -43,10 +43,10 @@ I'm Varun Tomar.
 - [K8S Pod Security Policy](https://tomarv2.medium.com/k8s-pod-security-policies-abff76d8075d)
 
 <p align=center>
-  <a href="https://github.com/tomarv2/github-readme-stats" title="Go to Source">
+  <a href="https://github-readme-stats.vercel.app/api?username=tomarv2&show_icons=true">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=tomarv2&show_icons=true">
   </a>
-  <a href="https://github.com/tomarv2/github-readme-stats">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tomarv2&hide=c%23,powershell,java&langs_count=8&layout=compact">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomarv2&hide=c%23,powershell,java&langs_count=8&layout=compact" />
   </a>
 </p>
