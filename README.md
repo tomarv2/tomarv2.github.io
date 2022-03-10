@@ -8,7 +8,7 @@ I'm Varun Tomar. I am some kind of engineer. You can find me on:
 
 ### Technologies that I work on:
 
-* Python
+* Python/Go
 * AWS/Azure/GCP
 * Terraform
 * Jenkins
